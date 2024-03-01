@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Afuzov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codeyourcareer.com%2Fweb-development&psig=AOvVaw1tAZbDJecMCulfq_xF-mV2&ust=1709413776936000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCZn9j804QDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahafuzov&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahafuzov" /> </p>
 
